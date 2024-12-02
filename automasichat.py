@@ -1,6 +1,7 @@
 import pyautogui as pg
 import time
 
+print('2024 Arfa Abdallah Wahab')
 limit = input("Masukkan limit teks : ")
 message = input("Masukkan pesan/teks : ")
 i = 0
