@@ -1,7 +1,7 @@
 # textautomation
 Automasi teks
 
-
+Menggunakan library/pustaka pyautogui dan time
 
 Cara kerja:
 1.Masukkan limit/ jumlah teks yang kalian inginkan(Misal 30)
